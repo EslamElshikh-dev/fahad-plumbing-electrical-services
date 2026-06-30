@@ -1,0 +1,11 @@
+{
+  "name": "فهد لخدمات وأعمال السباكة والكهرباء",
+  "short_name": "خدمات فهد",
+  "description": "خدمات سباكة وكهرباء منزلية في أحياء الرياض",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfdfc",
+  "theme_color": "#0f766e",
+  "dir": "rtl",
+  "lang": "ar-SA"
+}
