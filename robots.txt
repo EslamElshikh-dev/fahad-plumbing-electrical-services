@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eslamelshikh-dev.github.io/fahad-plumbing-electrical-services/sitemap.xml
